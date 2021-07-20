@@ -14,7 +14,7 @@ Use [control] + [T] to activate *Temple*.
 
 Note:
 
-1. *Temple* will plug itself into the UI of [constellation:console](https://github.com/JackAdams/constellation) ([demo here](http://constellation-demo.meteor.com)) if Constellation is added to your project.
+1. *Temple* will plug itself into the UI of [planable:console](https://github.com/JackAdams/constellation) ([demo here](http://constellation-demo.meteor.com)) if Constellation is added to your project.
 2. This is a `{debugOnly: true}` package, so it won't be compiled into production builds.
 
 Usage
